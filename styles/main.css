@@ -1,8 +1,15 @@
+.page {
+    display: flex;
+    justify-content: center;
+    margin-top: 50vh;
+}
+
 .head {
     background: #fc0;
     height: 100px;
     position: relative;
     width: 100px;
+    
   }
   .face {
     font-family: 'courier new', serif;
